@@ -19,6 +19,10 @@ This project analyzes historical rainfall data for the Dallas Fort Worth (DFW) a
 - Utilized seasonal box plots for visualization.
 - This visual representation offered a clear understanding of seasonal variations.
 
+### Correlation Analysis:
+- Explore correlations between different months.
+- This analysis aims to uncover relationships between monthly rainfall patterns.
+
 ## Future Analyses (To-Do List)
 ### Spatial Analysis:
 - Explore spatial patterns of rainfall across different regions within the DFW area.
@@ -28,10 +32,6 @@ This project analyzes historical rainfall data for the Dallas Fort Worth (DFW) a
 ### Extreme Events Analysis:
 - Identify and analyze extreme rainfall events.
 - This analysis will help understand and prepare for severe weather conditions.
-
-### Correlation Analysis:
-- Explore correlations between different months.
-- This analysis aims to uncover relationships between monthly rainfall patterns.
 
 ## Data Source
 The primary data source for this project is [weather.gov/fwd/dmoprecip](https://www.weather.gov/fwd/dmoprecip).
